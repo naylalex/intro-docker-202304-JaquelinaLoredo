@@ -1,4 +1,4 @@
-##SO carga
+##SO ejercicio
 FROM ubuntu
 COPY pom.xml .
 COPY src src
