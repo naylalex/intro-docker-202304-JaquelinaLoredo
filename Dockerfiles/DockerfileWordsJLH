@@ -1,6 +1,5 @@
 ##SO
 FROM ubuntu
-
 COPY pom.xml .
 COPY src src
 
