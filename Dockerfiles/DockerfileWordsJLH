@@ -1,4 +1,4 @@
-##SO
+##SO carga
 FROM ubuntu
 COPY pom.xml .
 COPY src src
